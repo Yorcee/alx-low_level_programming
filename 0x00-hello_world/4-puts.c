@@ -1,4 +1,3 @@
-#!/bin/bash
 /* program to print a string using puts() */
 
 #include <stdio.h>
