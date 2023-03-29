@@ -1,4 +1,15 @@
-int index = 0;
+[21:49, 29/03/2023] Yorcee❤️: }
+[21:54, 29/03/2023] Yorcee❤️: #include "main.h"
+
+/**
+ * cap_string - Capitalizes all words of a string.
+ * @str: The string to be capitalized.
+ *
+ * Return: A pointer to the changed string.
+ */
+char *cap_string(char *str)
+{
+	int index = 0;
 
 	while (str[index])
 	{
