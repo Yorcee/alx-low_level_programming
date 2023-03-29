@@ -1,5 +1,4 @@
-[21:49, 29/03/2023] Yorcee❤️: }
-[21:54, 29/03/2023] Yorcee❤️: #include "main.h"
+#include "main.h"
 
 /**
  * cap_string - Capitalizes all words of a string.
